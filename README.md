@@ -1,0 +1,2 @@
+# Semantic-segmentation-and-detection-projects-based-on-zcu104
+Autonomous driving, representing the future travel ecology, brings people a lot of expectations. Many countries actively promote the development of autonomous driving from the aspects of policy, regulation and technological innovation infrastructure construction, and other aspects. Enterprises from various countries also enter this field one after another and increase their research and development efforts
