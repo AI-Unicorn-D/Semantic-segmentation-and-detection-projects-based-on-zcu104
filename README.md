@@ -77,5 +77,7 @@ For object detection, execute the following command.
 #cd adas_detection/
 #./adas_detection video/adas.avi  model_dir_for_zcu104/yolov3_adas_pruned_0_9.elf
 For examples with video input, only webm and raw format are supported by default with the official system image. If you want to support video data in other formats, you need to install the relevant packages on the system.
+Vitis-AI/VART/
+https://github.com/Xilinx/Vitis-AI/tree/master/VART
 
 
